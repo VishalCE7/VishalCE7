@@ -3,7 +3,7 @@
 
 - 👋 Hi, I am @VishalCE7 and this... This is my Github Dashboard!! 😀
 - 👀 I'm very much interested in Cybersecurity and its related fields!! I also have an interest in App Dev 😅
-- 🌱 I’m currently learning Rust and I'm trying to improve my coding skills, mainly in Python. <!-- I also plan to learn Golang due to its use in network applications-->
+- 🌱 I’m currently learning Golang and I'm trying to improve my coding skills, mainly in Python.
 
 - 📫 How to reach me: ...
   - Email : vishal7ce@gmail.com
